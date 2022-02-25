@@ -11,3 +11,6 @@ The project is based on the trips made by Uber drivers. Here, we analyzed differ
 8) Identified that 'Cary' to 'Morrisville' was the most frequent route of all rides.
 9) Total Miles travelled is the highest for 'Meeting' Purpose.
 10) Number of rides for 'Business' purpose is significiantly higher that 'Personal' purpose.
+
+<B> Note </B>
+1) Jupyter notebook is used to do the coding.

@@ -1,6 +1,5 @@
 # Uber Drive Analysis
 The project is based on the trips made by Uber drivers. Here, we analyzed different aspects of the trips by doing Exploratory Data Analysis.
-
 1) Firstly, we checked the first & last 10 rows, also found the dimensions & total number of elements in the dataset.
 2) Also, understood the datatypes of each columns and found the number of missing values in each of those.
 3) Then, created a table of summary for numerical variables.
